@@ -17,7 +17,7 @@ Estamos constantemente actualizando y mejorando nuestro proyecto.
 
 - [Administrador General: Beater](https://www.facebook.com/leo.leytes.5)
 - [Administrador inversor: Zeref](https://www.facebook.com/enrique.c.rodriguez.73)
-- [WebMaster, Administrador: Beto](https://www.facebook.com/tristemelodia2012)
+- [WebMaster, Administrador: Wrath](https://www.facebook.com/tristemelodia2012)
 - [Developer, Administrador: Clowned](https://www.facebook.com/terryseytu)
 
 ## Licencia
