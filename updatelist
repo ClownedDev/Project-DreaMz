@@ -14,3 +14,4 @@
 #FIX globalCD Shadow Priest
 #FIX DK Raise Dead eternal CD
 #DB/CORE Fix Stack Stats, Warrior, Druida, Etc. All spell Worked Fine
+#DB/Spell: Restrict Karazhan book buffs to that raid
