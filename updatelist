@@ -30,3 +30,4 @@
 #Added reload item_template
 #Core/Misc: renamed sGossipSelect parameters
 #Add sql saurfang gossip
+#DB/Creature: Fix Npcflag for High Overlord Saurfang and Muradin
