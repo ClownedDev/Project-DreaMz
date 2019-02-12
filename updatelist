@@ -34,3 +34,4 @@
 #DB/gossip: Add missing gossips to Garrosh Hellscream
 #DB/Creature: Fix Champion go to bunny movements
 #Core/Updater: Pipe mysql process output into worldserver log
+#Core/Updater: Fix mysql in path check/search
