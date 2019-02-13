@@ -35,3 +35,4 @@
 #DB/Creature: Fix Champion go to bunny movements
 #Core/Updater: Pipe mysql process output into worldserver log
 #Core/Updater: Fix mysql in path check/search
+#CMake: Fix bad generation of "revision_data.h" not including MYSQL_EXECUTABLE
