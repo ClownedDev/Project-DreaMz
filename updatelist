@@ -37,3 +37,4 @@
 #Core/Updater: Fix mysql in path check/search
 #CMake: Fix bad generation of "revision_data.h" not including MYSQL_EXECUTABLE
 #Core/Updater: fixed host parameter is being ignored
+#DB/Creature: Nerub'ar Broodkeeper Add visual Web Beam on aggro
