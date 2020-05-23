@@ -67,3 +67,4 @@
 #Core/Chat: Fixed chat link exploit
 #Core/DAtabase: Fix dupe Name char, added more lines for FIX Scripts Exploit
 #fix(Core): uint32 assignment, prevent crash, closes server
+#Core: Update StatsSystem
