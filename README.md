@@ -1,23 +1,22 @@
-# ![logo](https://github.com/ClownedDev/Project-DreaMz/blob/master/prodreamz.png)
+# ![logo](https://github.com/ClownedDev/Project-DreaMz/blob/master/pwned.jpg)
 
 ## Introduction
 
-WoWDreaMz © 2014-2019, es un proyecto privado basado en TrinityCore y AzerothCore. 
+PwnedWoW © 2014-2020, es un proyecto privado basado en TrinityCore. 
 Estamos constantemente actualizando y mejorando nuestro proyecto.
 
 
 ## Links del Servidor
 
-- [Web Principal](https://www.wowdreamz.com/)
-- [Discord](https://discord.gg/WSVepsA)
-- [Facebook](https://www.facebook.com/WoWDreamZ/)
-- [BugTracker](https://www.wowdreamz.com/bugtracker/)
+- [Web Principal](https://www.pwnedwow.com/)
+- [Discord](https://discord.gg/pdPqY4v)
+- [Facebook](https://www.facebook.com/pwnedserver/)
+- [BugTracker](https://www.pwnedwow.com/bugtracker/)
 
 ## Fundadores
 
 - [Administrador General: Beater](https://www.facebook.com/leo.leytes.5)
-- [Administrador inversor: Zeref](https://www.facebook.com/enrique.c.rodriguez.73)
-- [WebMaster, Administrador: Wrath](https://www.facebook.com/tristemelodia2012)
+- [Administrador: Shenck](https://www.facebook.com/amir.palaciosortega)
 - [Developer, Administrador: Clowned](https://www.facebook.com/terryseytu)
 
 ## Licencia
