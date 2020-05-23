@@ -64,3 +64,4 @@
 #Core / Custom: Added reward Token in arenas
 #Core / Custom: Finally work fine Login Announce and Effect in Players
 #Core/Misc: Rewrite some old name handling functions that use raw buffers to no longer be old name handling functions that use raw buffers.
+#Core/Chat: Fixed chat link exploit
