@@ -1,4 +1,4 @@
-# ![logo](https://github.com/ClownedDev/Project-DreaMz/blob/master/pwned.jpg)
+# ![logo](https://github.com/ClownedDev/Project-DreaMz/blob/master/pwned.jpg) PwnedWoW
 
 ## Introduction
 
