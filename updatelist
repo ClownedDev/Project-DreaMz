@@ -68,3 +68,4 @@
 #Core/DAtabase: Fix dupe Name char, added more lines for FIX Scripts Exploit
 #fix(Core): uint32 assignment, prevent crash, closes server
 #Core: Update StatsSystem
+#Clean up SmartAI::MoveInLineOfSight. Remove tons of duplicate logic and forward to CreatureAI::MoveInLineOfSight instead of using its own (incorrect) implementation. Move the removal of the 'distracted' state from SmartAI to UnitAI.cpp.
