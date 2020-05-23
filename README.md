@@ -1,6 +1,6 @@
 # ![logo](https://github.com/ClownedDev/Project-DreaMz/blob/master/pwned.png) PwnedWoW
 
-[![Discord](https://img.shields.io/discord/217589275766685707.svg)](https://discord.gg/gkt4y2x "Our community hub on Discord")
+[![Discord](https://img.shields.io/discord/681334031396110370.svg)](https://discord.gg/pdPqY4v "Our community hub on Discord")
 
 ## Introduction
 
