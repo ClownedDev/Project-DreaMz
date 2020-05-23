@@ -23,5 +23,5 @@ Estamos constantemente actualizando y mejorando nuestro proyecto.
 
 ## Licencia
 
-- Los nuevos componentes fuente de WoWDreaMz se lanzan bajo [GNU AGPL v3](https://github.com/ClownedDev/Project-DreaMz/blob/master/LICENSE-AGPL3)
 - Las fuentes antiguas basadas en MaNGOS / TrinityCore se publican bajo [GNU GPL v2](https://github.com/ClownedDev/Project-DreaMz/blob/master/LICENSE-GPL2)
+- Los nuevos componentes fuente de PwnedWoW se lanzan bajo [GNU AGPL v3](https://github.com/ClownedDev/Project-DreaMz/blob/master/LICENSE-AGPL3)
