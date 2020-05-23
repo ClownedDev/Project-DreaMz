@@ -1,4 +1,7 @@
-# ![logo](https://github.com/ClownedDev/Project-DreaMz/blob/master/pwned.jpg) PwnedWoW
+# ![logo](https://github.com/ClownedDev/Project-DreaMz/blob/master/pwned.png) PwnedWoW
+
+(https://stackoverflow.com/questions/tagged/azerothcore?sort=newest "Ask / browse questions here")
+[![Discord](https://img.shields.io/discord/217589275766685707.svg)](https://discord.gg/gkt4y2x "Our community hub on Discord")
 
 ## Introduction
 
