@@ -1,4 +1,4 @@
-# ![logo](https://github.com/ClownedDev/Project-DreaMz/blob/master/pwned.png) PwnedWoW
+# ![logo](https://github.com/ClownedDev/Project-DreaMz/blob/master/pwned.png) PwnedwowCore
 
 [![Discord](https://img.shields.io/discord/681334031396110370.svg)](https://discord.gg/pdPqY4v "Our community hub on Discord")
 
