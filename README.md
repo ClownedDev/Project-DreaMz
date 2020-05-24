@@ -4,7 +4,7 @@
 
 ## Introduction
 
-PwnedWoW © 2014-2020, es un proyecto privado basado en TrinityCore. 
+PwnedwowCore © 2014-2020, es un proyecto privado basado en TrinityCore. 
 Estamos constantemente actualizando y mejorando nuestro proyecto.
 
 
@@ -23,5 +23,5 @@ Estamos constantemente actualizando y mejorando nuestro proyecto.
 
 ## Licencia
 
-- Las fuentes antiguas basadas en MaNGOS / TrinityCore se publican bajo [GNU GPL v2](https://github.com/ClownedDev/Project-DreaMz/blob/master/LICENSE-GPL2)
-- Los nuevos componentes fuente de PwnedWoW se lanzan bajo [GNU AGPL v3](https://github.com/ClownedDev/Project-DreaMz/blob/master/LICENSE-AGPL3)
+- Las fuentes antiguas basadas en MaNGOS / TrinityCore se publican bajo [GNU GPL v2](https://github.com/ClownedDev/PwnedwowCore/blob/master/LICENSE-GPL2)
+- Los nuevos componentes fuente de PwnedwowCore se lanzan bajo [GNU AGPL v3](https://github.com/ClownedDev/PwnedwowCore/blob/master/LICENSE-AGPL3)
