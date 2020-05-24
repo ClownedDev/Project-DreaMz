@@ -72,3 +72,4 @@
 #Core/Creature: Add facilities to the Creature class to allow setting an automated, periodic pulse that puts every player in the zone in combat and on the creature's threat list.
 Scripts/BossAI: Set the BossAI parent class to make use of this in its _EnterCombat and _Reset methods. Combat pulses happen every 5 seconds.
 #Database: Big update files .sql, Fix grant everyone world
+#Website: Better Theme apply
