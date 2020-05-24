@@ -15,13 +15,20 @@ Estamos constantemente actualizando y mejorando nuestro proyecto.
 - [Facebook](https://www.facebook.com/pwnedserver/)
 - [BugTracker](https://www.pwnedwow.com/bugtracker/)
 
-## Fundadores
+## Staff 
 
-- [Administrador General: Beater](https://www.facebook.com/leo.leytes.5)
-- [Administrador: Shenck](https://www.facebook.com/amir.palaciosortega)
-- [Developer, Administrador: Clowned](https://www.facebook.com/terryseytu)
+- [Shenck](https://www.facebook.com/amir.palaciosortega)
+- [Prupet](https://www.facebook.com/leo.leytes.5)
+- [Clowned](https://www.facebook.com/terryseytu)
+- [Anhur](https://www.facebook.com/Edwinelp)
+- [Huu](https://www.facebook.com/jaraba05)
 
 ## Licencia
 
 - Las fuentes antiguas basadas en MaNGOS / TrinityCore se publican bajo [GNU GPL v2](https://github.com/ClownedDev/PwnedwowCore/blob/master/LICENSE-GPL2)
 - Los nuevos componentes fuente de PwnedwowCore se lanzan bajo [GNU AGPL v3](https://github.com/ClownedDev/PwnedwowCore/blob/master/LICENSE-AGPL3)
+
+
+## Apoyo al area c++
+
+Con la finalidad de manter un servidor OPTIMO se le dedica horas fixeando y actualizando nuestro Codigo para evitar ataques, o abuso de exploits. Si realmente te agrada nuestra labor y deseas apoyar a que se siga mejorando en el area de programacion aun mas puedes apoyarnos con un donativo voluntario por [PayPal](https://www.paypal.me/ClownedX)
