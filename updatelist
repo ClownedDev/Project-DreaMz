@@ -73,3 +73,4 @@
 Scripts/BossAI: Set the BossAI parent class to make use of this in its _EnterCombat and _Reset methods. Combat pulses happen every 5 seconds.
 #Database: Big update files .sql, Fix grant everyone world
 #Website: Better Theme apply
+#Website: Activation mail is true
