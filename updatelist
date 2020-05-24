@@ -71,3 +71,4 @@
 #Clean up SmartAI::MoveInLineOfSight. Remove tons of duplicate logic and forward to CreatureAI::MoveInLineOfSight instead of using its own (incorrect) implementation. Move the removal of the 'distracted' state from SmartAI to UnitAI.cpp.
 #Core/Creature: Add facilities to the Creature class to allow setting an automated, periodic pulse that puts every player in the zone in combat and on the creature's threat list.
 Scripts/BossAI: Set the BossAI parent class to make use of this in its _EnterCombat and _Reset methods. Combat pulses happen every 5 seconds.
+#Database: Big update files .sql, Fix grant everyone world
